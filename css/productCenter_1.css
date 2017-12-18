@@ -1,0 +1,239 @@
+.content .section1 {
+  position: relative;
+}
+.content .section1 .bg_img {
+  width: 100%;
+}
+.content .section1 .banner_font {
+  z-index: 100;
+  text-align: center;
+  width: 350px;
+  height: 180px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -90px;
+  margin-left: -175px;
+}
+.content .section1 .banner_font p,
+.content .section1 .banner_font a {
+  color: #fff;
+}
+.content .section1 .banner_font .banner_font1 {
+  font-size: 26px;
+}
+.content .section1 .banner_font .banner_font2 {
+  font-size: 16px;
+  margin-top: 10px;
+}
+.content .section1 .banner_font .banner_btn {
+  display: inline-block;
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  background: #3282C9;
+  font-size: 18px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  margin-top: 45px;
+}
+.content .section1 .contract {
+  padding: 15px 7px;
+  background: #fff;
+  position: absolute;
+  top: 15px;
+  right: 40px;
+}
+.content .section1 .contract .contract_detail img {
+  width: 100%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  margin-bottom: 5px;
+}
+.content .section1 .contract .contract_detail p {
+  text-align: center;
+}
+.content .section1 .contract .contract_detail .contract_name {
+  margin-bottom: 2px;
+}
+.content .section1 .contract .contract_detail .contract_job {
+  margin-bottom: 15px;
+  color: #999;
+}
+.content .section1 .contract .contract_qq {
+  width: 42px;
+  height: 42px;
+  margin: 0 auto;
+  background: url("../images/product_11.gif") no-repeat;
+  cursor: pointer;
+}
+.content .section1 .contract .contract_phone {
+  width: 42px;
+  height: 42px;
+  margin: 7px auto 0 auto;
+  background: url("../images/product_14.gif") no-repeat;
+  cursor: pointer;
+}
+.content .section2 {
+  width: 1175px;
+  margin: 35px auto 0 auto;
+}
+.content .section2 h4 {
+  font-weight: 100;
+  font-size: 24px;
+  text-align: center;
+  color: #4F4F4F;
+  margin-bottom: 25px;
+}
+.content .section2 .section2_content {
+  width: 1175px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 20px 25px 0 20px;
+  height: 480px;
+}
+.content .section2 .section2_content .section2_left ul li a {
+  color: #656565;
+  font-size: 16px;
+  width: 120px;
+  height: 45px;
+  text-align: center;
+  line-height: 45px;
+  border-bottom: 1px solid #E3E3E5;
+  cursor: pointer;
+  display: inline-block;
+}
+.content .section2 .section2_content .section2_left ul li.hover a,
+.content .section2 .section2_content .section2_left ul li:hover a {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+  background: #3282C9;
+}
+.content .section2 .section2_content .section2_tab_toggle {
+  display: none;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_center {
+  width: 710px;
+  margin-left: 30px;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_center ul li {
+  float: left;
+  position: relative;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_center ul li a {
+  display: inline-block;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_center ul li a img {
+  width: 350px;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_center ul li a .img_cover_detail {
+  position: absolute;
+  height: 40px;
+  left: 0;
+  right: 0;
+  bottom: 3px;
+  background: #000;
+  opacity: .7;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+  color: #fff;
+  text-align: center;
+  line-height: 40px;
+  font-size: 18px;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_center ul li:nth-child(2n-1) {
+  margin-right: 10px;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_center ul li:nth-last-child(3) {
+  margin-top: 10px;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_center ul li:nth-last-child(2) {
+  margin-top: 10px;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_right {
+  margin-left: 25px;
+  width: 280px;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_right h5 {
+  font-size: 18px;
+  color: #4F4F4F;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_right p {
+  color: #656565;
+  font-size: 16px;
+  margin-top: 10px;
+  line-height: 24px;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_right ul li {
+  padding-left: 22px;
+  background: url("../images/product_10.png") no-repeat 12px center;
+  color: #656565;
+  font-size: 16px;
+  line-height: 24px;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_right .ewm_scan {
+  width: 130px;
+  margin: 45px auto 0 auto;
+  background: #EAF4FD;
+  padding: 10px;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_right .ewm_scan p {
+  margin-top: 6px;
+  color: #000;
+  font-size: 14px;
+  text-align: center;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_right .ewm_scan.hover {
+  margin-top: 0px;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_right .ewm_scan.hover1 {
+  margin-top: 20px;
+}
+.content .section2 .section2_content .section2_tab_toggle .section2_right .ewm_scan.hover2 {
+  margin-top: 110px;
+}
+.content .section2 .section2_content .section2_tab_toggle.hover {
+  display: block;
+}
+.content .section3 {
+  margin-top: 35px;
+  padding-bottom: 55px;
+  background: #fff;
+}
+.content .section3 .section3_content {
+  width: 1175px;
+  margin: 0 auto;
+}
+.content .section3 .section3_content table {
+  width: 100%;
+}
+.content .section3 .section3_content table td {
+  text-align: center;
+}
+.content .section3 .section3_content table thead td {
+  padding-top: 40px;
+  font-size: 24px;
+  color: #4F4F4F;
+}
+.content .section3 .section3_content table tbody td {
+  padding-top: 50px;
+}
+.content .section3 .section3_content table tbody td .section3_detail {
+  width: 415px;
+  margin: 0 auto;
+}
+.content .section3 .section3_content table tbody td .section3_detail h4 {
+  text-align: left;
+  color: #4F4F4F;
+  font-size: 18px;
+}
+.content .section3 .section3_content table tbody td .section3_detail p {
+  text-align: left;
+  color: #656565;
+  font-size: 16px;
+  line-height: 22px;
+  margin-top: 20px;
+}
